@@ -8,6 +8,7 @@ PRLDASH is a desktop miner for Pearl. Download it, paste your wallet address and
 - Downloads: [Releases](https://github.com/prldash/PRLDash/releases)
 - Setup guide: <https://prldash.com/start/>
 - Earnings calculator: <https://prldash.com/earnings/>
+- Community: [Discord](https://discord.gg/xaAGWHVAVt) · [X](https://x.com/prldash)
 
 ## Requirements
 
@@ -23,6 +24,6 @@ PRLDASH has no fee until 1 December 2026. From then on it keeps 0.5% of mined Pe
 
 This repository hosts the PRLDASH release files. The miner's source code is not published here.
 
-To report a problem, open an issue or write to admin@prldash.com.
+To report a problem, open an issue, ask in the #support channel on [Discord](https://discord.gg/xaAGWHVAVt) or write to admin@prldash.com.
 
 PRLDASH is an independent project and is not affiliated with NVIDIA.
