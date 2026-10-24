@@ -18,7 +18,7 @@ PRLDASH is a desktop miner for Pearl. Download it, paste your wallet address and
 
 ## Fees
 
-PRLDASH has no fee until 1 December 2026. From then on it keeps 0.5% of mined Pearl. Your mining pool charges its own fee as well. See the [FAQ](https://prldash.com/#faq).
+PRLDASH has a 1% fee: about 1% of mining time goes to PRLDASH. Your mining pool charges its own fee as well. See the [FAQ](https://prldash.com/#faq).
 
 ## About this repository
 
