@@ -8,7 +8,7 @@ PRLDASH is a desktop miner for Pearl. Download it, paste your wallet address and
 - Downloads: [Releases](https://github.com/prldash/PRLDash/releases)
 - Setup guide: <https://prldash.com/start/>
 - Earnings calculator: <https://prldash.com/earnings/>
-- Community: [Discord](https://discord.gg/xaAGWHVAVt) · [X](https://x.com/prldash)
+- Community: [Discord](https://discord.gg/xaAGWHVAVt) · [Telegram](https://t.me/prldash) · [X](https://x.com/prldash)
 
 ## Requirements
 
